@@ -1,0 +1,5 @@
+Gathering Guide
+Contents
+1. <a guidelink='general'>General Information</a>
+2. <a guidelink='accessing'>Accessing the Gathering Areas</a>
+3. <a guidelink='tiers'>Gathering Resources</a>

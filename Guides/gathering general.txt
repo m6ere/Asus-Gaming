@@ -1,0 +1,10 @@
+General Information
+<b>General Information</b>
+In Age of Conan there are <u>6</u> Gathering skills. You <u>can</u> take <u>all 6</u> gathering skills. The 6 Gathering skills currently available are.
+<br>
+•  <u>Mining</u>: This profession will allow you to gather resources such as copper, tin, iron and more. You can also find rare ones like aurichalcum and blue iron.
+•  <u>Prospecting</u>: This profession will allow you to gather resources such as silver, electrum, gold and more. You can also find rare ones like illustrium and platinum.
+•  <u>Skinning</u>: This profession will allow you to gather resources such as different types of leather, some of which are rare ones like the grained leather and the whorled leather.
+•  <u>Stonecutting</u>: This profession will allow you to gather resources such as sandstone, granite, basalt and more. You can also find rare ones like adamant and obsidian.
+•  <u>Weaving</u>: This profession will allow you to gather resources such as cotton, wool, flax and more. You can also find rare ones like bloodflax and cottonwisp.
+•  <u>Woodcutting</u>: This profession will allow you to gather resources such as ash, yew, oak and more. You can also find rare ones like soulwood and amberwood.

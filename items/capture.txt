@@ -1,0 +1,218 @@
+<a style="text-decoration:none" href="itemref://3665964/3665964/77/126f014b:e5f9feb5:f9430fc8:6dda6b36/126f014b:e5f9feb5:f9430fc8:6dda6b36"><font color=html_link_color>[Aelfirth's Honour]</font></a>
+<a style="text-decoration:none" href="itemref://3806051/3806051/66/f530f1c6:9ff437a1:35bfc166:4741a137/f530f1c6:9ff437a1:35bfc166:4741a137"><font color=html_link_color>[Angerspite Jerkin]</font></a>
+<a style="text-decoration:none" href="itemref://3228572/3228572/46/aea72a8d:ad3175b1:23c27fff:8b10fdc5/aea72a8d:ad3175b1:23c27fff:8b10fdc5"><font color=html_link_color>[Angerwake Helm]</font></a>
+<a style="text-decoration:none" href="itemref://3751748/3751748/60/83528984:8b7ee9eb:29f38542:a204ca5f/83528984:8b7ee9eb:29f38542:a204ca5f"><font color=html_link_color>[Arcing Trillion Moonstone]</font></a>
+<a style="text-decoration:none" href="itemref://3655696/3655696/56/b7e772c:c4f5137c:a3fc0a7a:b1513be/b7e772c:c4f5137c:a3fc0a7a:b1513be"><font color=html_link_color>[Arena Vambraces]</font></a>
+<a style="text-decoration:none" href="itemref://3803271/3803271/40/c31b6688:90903f5b:35765bbd:c4fbf1a6/c31b6688:90903f5b:35765bbd:c4fbf1a6"><font color=html_link_color>[Atum-Keket's Cape]</font></a>
+<a style="text-decoration:none" href="itemref://161247/161247/1/f0fabd4c:b3e4fea8:d90c77f6:3c0b3139/f0fabd4c:b3e4fea8:d90c77f6:3c0b3139"><font color=html_link_color>[Aurichalcum]</font></a>
+<a style="text-decoration:none" href="itemref://3806008/3806008/60/569320f2:80a4f680:eda5477e:19a16f41/569320f2:80a4f680:eda5477e:19a16f41"><font color=html_link_color>[Avenging Light]</font></a>
+<a style="text-decoration:none" href="itemref://3719810/3719810/72/f21c40c9:749cebe5:396fa56c:9c4a768/f21c40c9:749cebe5:396fa56c:9c4a768"><font color=html_link_color>[Baneful Steel-shod Quarterstaff]</font></a>
+<a style="text-decoration:none" href="itemref://3803181/3803181/80/23c2e72e:a645d598:7f115872:29b80d64/23c2e72e:a645d598:7f115872:29b80d64"><font color=html_link_color>[Battleblessed Opus]</font></a>
+<a style="text-decoration:none" href="itemref://3749455/3749455/75/b09aba1:3371d634:aa502466:9898428/b09aba1:3371d634:aa502466:9898428"><font color=html_link_color>[Battlemaster's Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3805983/3805983/53/8b992c7e:59d6474a:ffa6e947:f4ee6fdf/8b992c7e:59d6474a:ffa6e947:f4ee6fdf"><font color=html_link_color>[Battleprimed Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3805955/3805955/50/e3be29:32c0c0f2:8a29f8f5:ce4fbf8/e3be29:32c0c0f2:8a29f8f5:ce4fbf8"><font color=html_link_color>[Battlespite]</font></a>
+<a style="text-decoration:none" href="itemref://3800475/3800475/72/bfe1a5a:aa633af7:4d2a2b1:3f260848/bfe1a5a:aa633af7:4d2a2b1:3f260848"><font color=html_link_color>[Battlewarden]</font></a>
+<a style="text-decoration:none" href="itemref://3748767/3748767/51/b6f2c910:405c6b3a:ef440e1d:e85dc050/b6f2c910:405c6b3a:ef440e1d:e85dc050"><font color=html_link_color>[Beatific Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://3751438/3751438/77/7395c57:baab067f:45cfc705:a9bc162e/7395c57:baab067f:45cfc705:a9bc162e"><font color=html_link_color>[Berserker's Bracers]</font></a>
+<a style="text-decoration:none" href="itemref://3750379/3750379/49/a7a84a01:5d619109:b1e8b2b0:1d42f542/a7a84a01:5d619109:b1e8b2b0:1d42f542"><font color=html_link_color>[Bestial Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3663775/3663775/75/8264a0d5:61594e87:69164cd3:bf109ff3/8264a0d5:61594e87:69164cd3:bf109ff3"><font color=html_link_color>[Black Dragon Claw]</font></a>
+<a style="text-decoration:none" href="itemref://3803493/3803493/30/69fc1b7e:208671f0:c2bb8b55:919074d9/69fc1b7e:208671f0:c2bb8b55:919074d9"><font color=html_link_color>[Black Ring Spelldagger]</font></a>
+<a style="text-decoration:none" href="itemref://161253/161253/1/9ea65ec7:e2d8e013:9029dbcf:f85dfed6/9ea65ec7:e2d8e013:9029dbcf:f85dfed6"><font color=html_link_color>[Black Silver]</font></a>
+<a style="text-decoration:none" href="itemref://3750981/3750981/69/620181ae:94bd308f:98d965d5:1fb3c652/620181ae:94bd308f:98d965d5:1fb3c652"><font color=html_link_color>[Blackheart Sash]</font></a>
+<a style="text-decoration:none" href="itemref://3751338/3751338/69/4262b562:ca0a1da2:d60643af:2ffbc8e1/4262b562:ca0a1da2:d60643af:2ffbc8e1"><font color=html_link_color>[Blackheart Slippers]</font></a>
+<a style="text-decoration:none" href="itemref://3750729/3750729/67/8c67829c:59b5b052:1cda9714:5971f724/8c67829c:59b5b052:1cda9714:5971f724"><font color=html_link_color>[Blackheart Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://3805740/3805740/48/1611379a:1cad82b5:124793e3:6ca3ef94/1611379a:1cad82b5:124793e3:6ca3ef94"><font color=html_link_color>[Blacksever]</font></a>
+<a style="text-decoration:none" href="itemref://3812791/3812791/75/db5f38ca:39e6d6c1:1c0da05:452de899/db5f38ca:39e6d6c1:1c0da05:452de899"><font color=html_link_color>[Bladebarrier Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3803511/3803511/30/5a3accb4:62d6c933:b35743e3:bb38e1d9/5a3accb4:62d6c933:b35743e3:bb38e1d9"><font color=html_link_color>[Blood Guard]</font></a>
+<a style="text-decoration:none" href="itemref://3805781/3805781/48/e75a8f63:26ac175c:1dfd188:d934c9e6/e75a8f63:26ac175c:1dfd188:d934c9e6"><font color=html_link_color>[Bloodblight Bolts]</font></a>
+<a style="text-decoration:none" href="itemref://3805933/3805933/49/5b56846d:ff08649b:8b528f66:5a08f924/5b56846d:ff08649b:8b528f66:5a08f924"><font color=html_link_color>[Bloodburr Jerkin]</font></a>
+<a style="text-decoration:none" href="itemref://3805978/3805978/51/fd344b54:17bab081:dfb6610f:feb0b295/fd344b54:17bab081:dfb6610f:feb0b295"><font color=html_link_color>[Bloodpulse Belt]</font></a>
+<a style="text-decoration:none" href="itemref://3803511/3803511/30/5a3accb4:62d6c933:b35743e3:bb38e1d9/5a3accb4:62d6c933:b35743e3:bb38e1d9"><font color=html_link_color>[Bloodspite]</font></a>
+<a style="text-decoration:none" href="itemref://3570414/3570414/41/4cc4ba43:e73fae3c:89fb7173:2708224b/4cc4ba43:e73fae3c:89fb7173:2708224b"><font color=html_link_color>[Blue Gem]</font></a>
+<a style="text-decoration:none" href="itemref://3663369/3663369/70/32809b51:31e606f9:5383f4c9:133950a7/32809b51:31e606f9:5383f4c9:133950a7"><font color=html_link_color>[Blue Jewel]</font></a>
+<a style="text-decoration:none" href="itemref://3667496/3667496/59/77d37285:46eece42:f86d9cf6:ad0feb92/77d37285:46eece42:f86d9cf6:ad0feb92"><font color=html_link_color>[Bonecleave]</font></a>
+<a style="text-decoration:none" href="itemref://3806079/3806079/72/cfc2e7d3:66b23f11:c3a2261:e4b56929/cfc2e7d3:66b23f11:c3a2261:e4b56929"><font color=html_link_color>[Bonesaw]</font></a>
+<a style="text-decoration:none" href="itemref://161243/161243/20/1ec3b018:bb397ac3:547d4aae:13e6b5f6/1ec3b018:bb397ac3:547d4aae:13e6b5f6"><font color=html_link_color>[Brindled Leather]</font></a>
+<a style="text-decoration:none" href="itemref://3534520/3534520/50/be38a73e:db6fc1fd:4902ab4c:5bd2ddfa/be38a73e:db6fc1fd:4902ab4c:5bd2ddfa"><font color=html_link_color>[Cloak of Ibis]</font></a>
+<a style="text-decoration:none" href="itemref://3701292/3701292/64/c7dcf5dd:35f731f:8f889e3a:31f7e9c5/c7dcf5dd:35f731f:8f889e3a:31f7e9c5"><font color=html_link_color>[Concussant Steel-mail Vambraces]</font></a>
+<a style="text-decoration:none" href="itemref://3752225/3752225/70/e1d95bb3:af1dcf07:7d325853:63bba0e5/e1d95bb3:af1dcf07:7d325853:63bba0e5"><font color=html_link_color>[Corruptive Cabochon Black Jasper]</font></a>
+<a style="text-decoration:none" href="itemref://3752243/3752243/50/a14feaa:bb172c1b:ea7c94ee:aee890d/a14feaa:bb172c1b:ea7c94ee:aee890d"><font color=html_link_color>[Corruptive Cabochon Onyx]</font></a>
+<a style="text-decoration:none" href="itemref://3749939/3749939/71/fdbebe26:7c7b4a0f:6fa932fb:14de5468/fdbebe26:7c7b4a0f:6fa932fb:14de5468"><font color=html_link_color>[Cruel Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3800460/3800460/72/b3cb3ee0:11922a6b:ab033199:a0d1e659/b3cb3ee0:11922a6b:ab033199:a0d1e659"><font color=html_link_color>[Crystallite]</font></a>
+<a style="text-decoration:none" href="itemref://3750239/3750239/57/821db267:479d2cb:161c4cdd:3c39b4dd/821db267:479d2cb:161c4cdd:3c39b4dd"><font color=html_link_color>[Custodian's Armguards]</font></a>
+<a style="text-decoration:none" href="itemref://3751286/3751286/69/27ae07b:f7132a80:c68aa465:f24c3a50/27ae07b:f7132a80:c68aa465:f24c3a50"><font color=html_link_color>[Dark Ember Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3748997/3748997/75/e5b86d28:a7f498b5:917fdde7:3bc4b060/e5b86d28:a7f498b5:917fdde7:3bc4b060"><font color=html_link_color>[Darkshroud Belt]</font></a>
+<a style="text-decoration:none" href="itemref://1083385/1083385/58/58ef0fa5:119f2417:7c92e5ae:c4a948d1/58ef0fa5:119f2417:7c92e5ae:c4a948d1"><font color=html_link_color>[Deepwound]</font></a>
+<a style="text-decoration:none" href="itemref://3750388/3750388/65/38c72cad:a9856c05:c9a4f591:6c56a137/38c72cad:a9856c05:c9a4f591:6c56a137"><font color=html_link_color>[Defiant Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3145800/3145800/19/a3ccfc70:f5343b5b:aa2a76c:77c17411/a3ccfc70:f5343b5b:aa2a76c:77c17411"><font color=html_link_color>[Defiler's Leggings]</font></a>
+<a style="text-decoration:none" href="itemref://3725624/3725624/66/9192bd86:fb10c351:a0ab0bd:9cfedf0a/9192bd86:fb10c351:a0ab0bd:9cfedf0a"><font color=html_link_color>[Deft Sateen Pants]</font></a>
+<a style="text-decoration:none" href="itemref://3499202/3499202/75/1742e882:dad10d2a:556c01bd:f7d2960b/1742e882:dad10d2a:556c01bd:f7d2960b"><font color=html_link_color>[Delvenest Gauntlets]</font></a>
+<a style="text-decoration:none" href="itemref://3806077/3806077/65/303fe0e0:5c6f3883:7abb3b35:6c41d279/303fe0e0:5c6f3883:7abb3b35:6c41d279"><font color=html_link_color>[Desertfrost Cheoker]</font></a>
+<a style="text-decoration:none" href="itemref://3504466/3504466/74/1c68e3c:2639fcff:e291d8c4:92037ef6/1c68e3c:2639fcff:e291d8c4:92037ef6"><font color=html_link_color>[Desertguard Brassarts]</font></a>
+<a style="text-decoration:none" href="itemref://700294/700294/60/8cb75a4a:9d25ed0:5374b7c0:76cd1648/8cb75a4a:9d25ed0:5374b7c0:76cd1648"><font color=html_link_color>[Despair]</font></a>
+<a style="text-decoration:none" href="itemref://3696429/3696429/74/ca4ad33f:12c6c334:483a769c:3aaa7c7/ca4ad33f:12c6c334:483a769c:3aaa7c7"><font color=html_link_color>[Destructive Great Hammer]</font></a>
+<a style="text-decoration:none" href="itemref://3751817/3751817/60/6d0ca9d:20959208:26e5fe54:354ba004/6d0ca9d:20959208:26e5fe54:354ba004"><font color=html_link_color>[Destructive Trillion Garnet]</font></a>
+<a style="text-decoration:none" href="itemref://3748735/3748735/45/3299c395:79e5ff14:8b6819b6:115e449/3299c395:79e5ff14:8b6819b6:115e449"><font color=html_link_color>[Devotee's Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3806061/3806061/69/4a995773:b2018d8f:530f4a54:8707630b/4a995773:b2018d8f:530f4a54:8707630b"><font color=html_link_color>[Dodgeblow Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3751243/3751243/55/472d4afd:9320833:f922586b:926acbe4/472d4afd:9320833:f922586b:926acbe4"><font color=html_link_color>[Doomsayer Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3750655/3750655/59/d994ab19:2508a13:246aabd:7f83bbc3/d994ab19:2508a13:246aabd:7f83bbc3"><font color=html_link_color>[Doomsayer Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://318951/318951/1/903bc6dc:788053fc:1b1e1b02:85a62e89/903bc6dc:788053fc:1b1e1b02:85a62e89"><font color=html_link_color>[Drinking Cape]</font></a>
+<a style="text-decoration:none" href="itemref://3187950/3187950/24/3bed7994:1d427511:c75746b2:13073f8c/3bed7994:1d427511:c75746b2:13073f8c"><font color=html_link_color>[Dunestalker Loincloth]</font></a>
+<a style="text-decoration:none" href="itemref://3804820/3804820/23/a45561e7:575ada8c:668254f4:77f73dd/a45561e7:575ada8c:668254f4:77f73dd"><font color=html_link_color>[Duskhunter Pants]</font></a>
+<a style="text-decoration:none" href="itemref://3751457/3751457/55/5f8199f5:db832c74:917ab66d:1bb89be7/5f8199f5:db832c74:917ab66d:1bb89be7"><font color=html_link_color>[Eidolon's Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://3667419/3667419/58/ec7178d2:87a3b97c:f0737c4f:688ee65c/ec7178d2:87a3b97c:f0737c4f:688ee65c"><font color=html_link_color>[Emerald-hide Shoes]</font></a>
+<a style="text-decoration:none" href="itemref://3667397/3667397/59/a7f7452e:e7c12f7b:9a389fbb:7d1f8e3d/a7f7452e:e7c12f7b:9a389fbb:7d1f8e3d"><font color=html_link_color>[Eminent Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3722353/3722353/50/5f930307:c8a178c3:c846a361:9b811bdf/5f930307:c8a178c3:c846a361:9b811bdf"><font color=html_link_color>[Enlightening Octavo]</font></a>
+<a style="text-decoration:none" href="itemref://3271544/3271544/1/69d2d144:5ef3e069:c8d9d0c9:115bb472/69d2d144:5ef3e069:c8d9d0c9:115bb472"><font color=html_link_color>[Fading Black Horse]</font></a>
+<a style="text-decoration:none" href="itemref://3156270/3156270/63/1216951d:f30a9754:bc202c1e:3918d0b4/1216951d:f30a9754:bc202c1e:3918d0b4"><font color=html_link_color>[Farmer Norfindir's Necklace]</font></a>
+<a style="text-decoration:none" href="itemref://3750187/3750187/73/85da7ab2:83a2aa6a:55246aa7:f4d54005/85da7ab2:83a2aa6a:55246aa7:f4d54005"><font color=html_link_color>[Farseeker Bracers]</font></a>
+<a style="text-decoration:none" href="itemref://3750383/3750383/55/4a4ad4aa:d72e58f2:60425d95:15bd5114/4a4ad4aa:d72e58f2:60425d95:15bd5114"><font color=html_link_color>[Ferine Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3777151/3777151/70/5efc8747:50ee9aeb:4f25e986:2b796e7b/5efc8747:50ee9aeb:4f25e986:2b796e7b"><font color=html_link_color>[Fine Silk Cloak]</font></a>
+<a style="text-decoration:none" href="itemref://3751630/3751630/60/d12cf35e:c5f2cf9a:5ec277c8:1a1dac03/d12cf35e:c5f2cf9a:5ec277c8:1a1dac03"><font color=html_link_color>[Flaring Trillion Chalcedony]</font></a>
+<a style="text-decoration:none" href="itemref://3774004/3774004/40/3b6e8cc:a6b7fa30:c8089afc:af4bf426/3b6e8cc:a6b7fa30:c8089afc:af4bf426"><font color=html_link_color>[Flawless Obsidian]</font></a>
+<a style="text-decoration:none" href="itemref://3806018/3806018/69/65d884c1:df3cb833:a6946f9c:27f42951/65d884c1:df3cb833:a6946f9c:27f42951"><font color=html_link_color>[Fleshripper]</font></a>
+<a style="text-decoration:none" href="itemref://3806063/3806063/64/c2036c15:90ef1afb:ce0979ba:c2f47af8/c2036c15:90ef1afb:ce0979ba:c2f47af8"><font color=html_link_color>[Frostmighty Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3812708/3812708/76/bd403772:ad6e1722:b9123274:b6fa9ca7/bd403772:ad6e1722:b9123274:b6fa9ca7"><font color=html_link_color>[Gargantuan Fist]</font></a>
+<a href="itemref://219033/219033/60/d4e4ffd0:8fa8be67:b67b7477:727dccc7/d4e4ffd0:8fa8be67:b67b7477:727dccc7">[Gold studded Thong]</a>
+<a style="text-decoration:none" href="itemref://3499156/3499156/75/f1b587d:c6fb759d:4ca4893d:1992645b/f1b587d:c6fb759d:4ca4893d:1992645b"><font color=html_link_color>[Grimconsul Legguards]</font></a>
+<a style="text-decoration:none" href="itemref://3804796/3804796/23/faee60cb:136f6a0c:c579c8a5:ea2a57b6/faee60cb:136f6a0c:c579c8a5:ea2a57b6"><font color=html_link_color>[Grimstaff]</font></a>
+<a style="text-decoration:none" href="itemref://3752465/3752465/60/6e958c5:cef386d5:302c4c15:7e2d3f87/6e958c5:cef386d5:302c4c15:7e2d3f87"><font color=html_link_color>[Grounding Cabochon Moonstone]</font></a>
+<a style="text-decoration:none" href="itemref://3752281/3752281/70/ec454a12:a637b277:64572d24:78962ea0/ec454a12:a637b277:64572d24:78962ea0"><font color=html_link_color>[Grounding Oblique Achroite]</font></a>
+<a style="text-decoration:none" href="itemref://1083303/1083303/52/57f2721b:1e21e78a:e2d6a4f3:dac7b360/57f2721b:1e21e78a:e2d6a4f3:dac7b360"><font color=html_link_color>[Gutstrap]</font></a>
+<a style="text-decoration:none" href="itemref://3498669/3498669/74/21248249:aa38468c:713371a4:6b74850d/21248249:aa38468c:713371a4:6b74850d"><font color=html_link_color>[Icecarve Boardsword]</font></a>
+<a style="text-decoration:none" href="itemref://3751755/3751755/60/8315a354:33a10918:c7adbdab:e2192338/8315a354:33a10918:c7adbdab:e2192338"><font color=html_link_color>[Imbued Cabochon Turqoise]</font></a>
+<a style="text-decoration:none" href="itemref://3752765/3752765/60/25b96fcc:2834568d:605c2776:9f89278b/25b96fcc:2834568d:605c2776:9f89278b"><font color=html_link_color>[Imbued Oblique Turqoise]</font></a>
+<a style="text-decoration:none" href="itemref://3720185/3720185/68/878d899d:f3e9e8e5:af666f45:300c46c7/878d899d:f3e9e8e5:af666f45:300c46c7"><font color=html_link_color>[Imbued Steel-shod Quarterstaff]</font></a>
+<a style="text-decoration:none" href="itemref://3233478/3233478/1/4f77ddb0:11f880e5:a38f759f:e6de8e00/4f77ddb0:11f880e5:a38f759f:e6de8e00"><font color=html_link_color>[Killer Rhino]</font></a>
+<a style="text-decoration:none" href="itemref://3806471/3806471/63/d4ee657f:ef1aa37d:9808e8cd:c8eb6f67/d4ee657f:ef1aa37d:9808e8cd:c8eb6f67"><font color=html_link_color>[Knuckle of Red Ice]</font></a>
+<a style="text-decoration:none" href="itemref://3803484/3803484/60/710dfb0:ae545140:58d99879:58230ede/710dfb0:ae545140:58d99879:58230ede"><font color=html_link_color>[Kurbankohl's Anguish]</font></a>
+<a style="text-decoration:none" href="itemref://3803485/3803485/60/ba2c835b:d3750c02:c2856bc4:d65622f1/ba2c835b:d3750c02:c2856bc4:d65622f1"><font color=html_link_color>[Kurbankohl's Force]</font></a>
+<a style="text-decoration:none" href="itemref://3803483/3803483/60/bfa2d608:73ff8f83:74dd6a6f:f9083ea5/bfa2d608:73ff8f83:74dd6a6f:f9083ea5"><font color=html_link_color>[Kurbankohl's Will]</font></a>
+<a style="text-decoration:none" href="itemref://3506199/3506199/77/ca8d74d:e9577754:75cacbb8:1fabb317/ca8d74d:e9577754:75cacbb8:1fabb317"><font color=html_link_color>[Lawbringer Blade]</font></a>
+<a style="text-decoration:none" href="itemref://3752690/3752690/70/e5e4156a:f70edd4f:909c4770:76068ff0/e5e4156a:f70edd4f:909c4770:76068ff0"><font color=html_link_color>[Leeching Teardrop Aquamarine]</font></a>
+<a style="text-decoration:none" href="itemref://3804835/3804835/25/c4a568b6:6fa8263b:3e02e57c:e97f840a/c4a568b6:6fa8263b:3e02e57c:e97f840a"><font color=html_link_color>[Legantine Necklace]</font></a>
+<a style="text-decoration:none" href="itemref://3646716/3646716/52/fca2be2:97a11a2c:e239c653:d3ec842b/fca2be2:97a11a2c:e239c653:d3ec842b"><font color=html_link_color>[Leonid Battlehelm]</font></a>
+<a style="text-decoration:none" href="itemref://3806036/3806036/66/202a67f1:3346b5dd:18077ea9:88d532c0/202a67f1:3346b5dd:18077ea9:88d532c0"><font color=html_link_color>[Lifewrest]</font></a>
+<a style="text-decoration:none" href="itemref://3751597/3751597/60/d797eec9:3ef8e965:855c2379:6217f212/d797eec9:3ef8e965:855c2379:6217f212"><font color=html_link_color>[Malefic Rhombic Jet]</font></a>
+<a style="text-decoration:none" href="itemref://3752934/3752934/60/c3a11c50:90dcf09:e9a227eb:ef46b03e/c3a11c50:90dcf09:e9a227eb:ef46b03e"><font color=html_link_color>[Malefic Trillion Jet]</font></a>
+<a style="text-decoration:none" href="itemref://3806098/3806098/75/4a691b15:d7f8465f:f55e43b2:53d19fa6/4a691b15:d7f8465f:f55e43b2:53d19fa6"><font color=html_link_color>[Mark of Abomination]</font></a>
+<a style="text-decoration:none" href="itemref://3804798/3804798/27/447f37c8:a260928d:c2bc00c0:c9c67dca/447f37c8:a260928d:c2bc00c0:c9c67dca"><font color=html_link_color>[Mark of Damnation]</font></a>
+<a style="text-decoration:none" href="itemref://3749990/3749990/59/5297ae7d:9058ddc9:580947f0:232fd92a/5297ae7d:9058ddc9:580947f0:232fd92a"><font color=html_link_color>[Marksman's Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3805001/3805001/30/bfb4d85e:2496679b:aebf6c30:f2466e86/bfb4d85e:2496679b:aebf6c30:f2466e86"><font color=html_link_color>[Mercyfist]</font></a>
+<a style="text-decoration:none" href="itemref://3694530/3694530/70/238fdcdc:b46f043d:1c0be213:3ba35eda/238fdcdc:b46f043d:1c0be213:3ba35eda"><font color=html_link_color>[Mighty Lucern Hammer]</font></a>
+<a style="text-decoration:none" href="itemref://3752185/3752185/60/acabab4f:b37fb875:c3732a42:b431c551/acabab4f:b37fb875:c3732a42:b431c551"><font color=html_link_color>[Mocking Trillion Amethyst]</font></a>
+<a style="text-decoration:none" href="itemref://219005/219005/60/12190818:b607418f:e65171ea:3c77cb37/12190818:b607418f:e65171ea:3c77cb37"><font color=html_link_color>[Moonsteel-mail Armguards]</font></a>
+<a style="text-decoration:none" href="itemref://219006/219006/60/478d00f7:fe94b1c0:74176c9a:e5a2439c/478d00f7:fe94b1c0:74176c9a:e5a2439c"><font color=html_link_color>[Moonsteel-mail Boots]</font></a>
+<a style="text-decoration:none" href="itemref://219009/219009/60/1e9ad68c:4a277cd7:4057a04d:2137867/1e9ad68c:4a277cd7:4057a04d:2137867"><font color=html_link_color>[Moonsteel-mail Gauntlets]</font></a>
+<a style="text-decoration:none" href="itemref://219002/219002/60/4117540e:caa1f05b:74cf21f3:1679f2/4117540e:caa1f05b:74cf21f3:1679f2"><font color=html_link_color>[Moonsteel-mail Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://219010/219010/60/25629d36:56101cf4:fff6f1c5:3acb7412/25629d36:56101cf4:fff6f1c5:3acb7412"><font color=html_link_color>[Moonsteel-mail Hauberk]</font></a>
+<a style="text-decoration:none" href="itemref://219013/219013/60/162d86d0:3a501e80:d238e856:b59277c1/162d86d0:3a501e80:d238e856:b59277c1"><font color=html_link_color>[Moonsteel-mail Helm]</font></a>
+<a style="text-decoration:none" href="itemref://3775324/3775324/60/71d3d987:7699f78b:1475a9f5:efd52d32/71d3d987:7699f78b:1475a9f5:efd52d32"><font color=html_link_color>[Moonsteel-mail Tasset]</font></a>
+<a style="text-decoration:none" href="itemref://219001/219001/60/fbc247db:b5a33992:358f7a3:bf6a638f/fbc247db:b5a33992:358f7a3:bf6a638f"><font color=html_link_color>[Moonsteel-mail Vambraces]</font></a>
+<a style="text-decoration:none" href="itemref://219018/219018/60/afd92af7:4f150700:66396514:ff55c110/afd92af7:4f150700:66396514:ff55c110"><font color=html_link_color>[Moonsteel-studded Belt]</font></a>
+<a style="text-decoration:none" href="itemref://219021/219021/60/4d598951:ad152b3a:2b71d31f:fc6ea411/4d598951:ad152b3a:2b71d31f:fc6ea411"><font color=html_link_color>[Moonsteel-studded Brassarts]</font></a>
+<a style="text-decoration:none" href="itemref://219029/219029/60/8fe039ff:2375a17a:411692ee:b24ba405/8fe039ff:2375a17a:411692ee:b24ba405"><ft color=html_link_color>[Moonsteel-studded Cap]</font></a>
+<a style="text-decoration:none" href="itemref://219014/219014/60/7dd2f63:81368e1b:cb39084a:4da740ef/7dd2f63:81368e1b:cb39084a:4da740ef"><font color=html_link_color>[Moonsteel-studded Fauld]</font></a>
+<a style="text-decoration:none" href="itemref://219025/219025/60/6116c604:c5b66dd2:632949b3:40d08899/6116c604:c5b66dd2:632949b3:40d08899"><font color=html_link_color>[Moonsteel-studded Gloves]</font></a>
+<a style="text-decoration:none" href="itemref://219026/219026/60/e1b06d93:4a8b4b5c:78aa3020:e0e33932/e1b06d93:4a8b4b5c:78aa3020:e0e33932"><font color=html_link_color>[Moonsteel-studded Jerkin]</font></a>
+<a style="text-decoration:none" href="itemref://219022/219022/60/74ee71ac:2bab2773:64b5cdef:444d035/74ee71ac:2bab2773:64b5cdef:444d035"><font color=html_link_color>[Moonsteel-studded Shoes]</font></a>
+<a style="text-decoration:none" href="itemref://219017/219017/60/a5601964:eba8a29:22b01295:5b4b4a3c/a5601964:eba8a29:22b01295:5b4b4a3c"><font color=html_link_color>[Moonsteel-studded Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://702436/702436/76/d7e141f6:d8ab23bf:851c6a98:1278bac0/d7e141f6:d8ab23bf:851c6a98:1278bac0"><font color=html_link_color>[Nefarious Chest]</font></a>
+<a style="text-decoration:none" href="itemref://3752641/3752641/60/88d9ac18:22dd2665:e87be272:980b1340/88d9ac18:22dd2665:e87be272:980b1340"><font color=html_link_color>[Noxious Rhombic Jet]</font></a>
+<a style="text-decoration:none" href="itemref://271615/271615/75/a44a0793:409ffc34:b3b8e797:b9d1d65b/a44a0793:409ffc34:b3b8e797:b9d1d65b"><font color=html_link_color>[Oil of Acuity]</font></a>
+<a style="text-decoration:none" href="itemref://279542/279542/40/f8891133:3e5d929b:ceabd128:b09c9e8b/f8891133:3e5d929b:ceabd128:b09c9e8b"><font color=html_link_color>[Old Mordant]</font></a>
+<a style="text-decoration:none" href="itemref://3784519/3784519/30/f896a7c3:b5e1e0e2:7473a749:5eab6295/f896a7c3:b5e1e0e2:7473a749:5eab6295"><font color=html_link_color>[Onyx Gem of the Ancients]</font></a>
+<a style="text-decoration:none" href="itemref://3805825/3805825/47/6a579f72:ad51a906:b0d58b88:3483dd82/6a579f72:ad51a906:b0d58b88:3483dd82"><font color=html_link_color>[Ophidian Leggings]</font></a>
+<a style="text-decoration:none" href="itemref://3806068/3806068/68/ce86e6bc:794cc291:9e174591:2224fd46/ce86e6bc:794cc291:9e174591:2224fd46"><font color=html_link_color>[Painsurge Legguards]</font></a>
+<a style="text-decoration:none" href="itemref://3805821/3805821/48/547f02fb:a349943:1e5631f6:9ea3e449/547f02fb:a349943:1e5631f6:9ea3e449"><font color=html_link_color>[Painthreaded Leggings]</font></a>
+<a style="text-decoration:none" href="itemref://324168/324168/1/d198e27a:e753d901:f28b1612:c7708cf/d198e27a:e753d901:f28b1612:c7708cf"><font color=html_link_color>[Purple Bottom]</font></a>
+<a style="text-decoration:none" href="itemref://324140/324140/1/2b1be8af:dbac2c8b:41eea81:5ac07a75/2b1be8af:dbac2c8b:41eea81:5ac07a75"><font color=html_link_color>[Purple Gown]</font></a>
+<a style="text-decoration:none" href="itemref://3749002/3749002/61/d28825c6:8899c868:7236b76d:bc3f55f4/d28825c6:8899c868:7236b76d:bc3f55f4"><font color=html_link_color>[Rapturous Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://3751424/3751424/73/45ed568c:39e78894:1cccba3:b0b7dda4/45ed568c:39e78894:1cccba3:b0b7dda4"><font color=html_link_color>[Ravager's Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3750140/3750140/75/c5354904:8fc5bf1f:4c0c90eb:64b417a3/c5354904:8fc5bf1f:4c0c90eb:64b417a3"><font color=html_link_color>[Ravenwing Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://3750286/3750286/75/8247131f:6b0fe51c:c624ae9:bb40fd4f/8247131f:6b0fe51c:c624ae9:bb40fd4f"><font color=html_link_color>[Ravenwing Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3806121/3806121/74/674ada55:ff4e9118:aa5dcb8:535ce9b4/674ada55:ff4e9118:aa5dcb8:535ce9b4"><font color=html_link_color>[Reckless Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3806012/3806012/64/5fb376c3:5b3fbe7c:8c03e8cb:c5679711/5fb376c3:5b3fbe7c:8c03e8cb:c5679711"><font color=html_link_color>[Redcleave]</font></a>
+<a style="text-decoration:none" href="itemref://3750147/3750147/75/adfd06df:695a48fd:30694f4d:21aa80bb/adfd06df:695a48fd:30694f4d:21aa80bb"><font color=html_link_color>[Rendclaw Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://3750419/3750419/73/229a2a0e:895a09bd:9ba19d0a:81828b0e/229a2a0e:895a09bd:9ba19d0a:81828b0e"><font color=html_link_color>[Resolute Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3749023/3749023/71/e9496cd0:3b17133:48b0e53d:54864b7d/e9496cd0:3b17133:48b0e53d:54864b7d"><font color=html_link_color>[Resplendent Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3699259/3699259/70/96404fab:47f79e4c:cc6e2fa0:304e1d1d/96404fab:47f79e4c:cc6e2fa0:304e1d1d"><font color=html_link_color>[Revitalising Iron Plate Legguards]</font></a>
+<a style="text-decoration:none" href="itemref://3806027/3806027/62/e523e262:8a8b6361:ad95a07e:b67485de/e523e262:8a8b6361:ad95a07e:b67485de"><font color=html_link_color>[Ripshrike]</font></a>
+<a style="text-decoration:none" href="itemref://161187/161187/20/906b9e2e:eb49bfe2:58aefbf8:8ac171a3/906b9e2e:eb49bfe2:58aefbf8:8ac171a3"><font color=html_link_color>[Rough Leather]</font></a>
+<a style="text-decoration:none" href="itemref://3752703/3752703/60/e2ff6742:86e78aeb:d434b4cb:cf6de58a/e2ff6742:86e78aeb:d434b4cb:cf6de58a"><font color=html_link_color>[Sacred Cabochon Sagenite]</font></a>
+<a style="text-decoration:none" href="itemref://3749667/3749667/55/990e6acd:ae2b7083:a8ca817e:6a067555/990e6acd:ae2b7083:a8ca817e:6a067555"><font color=html_link_color>[Sadist's Boots]</font></a>
+<a style="text-decoration:none" href="itemref://3752521/3752521/50/5011dff9:e7cc44cc:a6c0a516:7754aa6a/5011dff9:e7cc44cc:a6c0a516:7754aa6a"><font color=html_link_color>[Sagacious Cabochon Lapis Lazuli]</font></a>
+<a style="text-decoration:none" href="itemref://279539/279539/40/244635d2:30a28a3c:db1c753b:e940667/244635d2:30a28a3c:db1c753b:e940667"><font color=html_link_color>[Sagebark Tea]</font></a>
+<a style="text-decoration:none" href="itemref://3804821/3804821/21/4f5dbcbc:32d3607d:5c4154b3:e27c5eae/4f5dbcbc:32d3607d:5c4154b3:e27c5eae"><font color=html_link_color>[Sandstride Sandals]</font></a>
+<a style="text-decoration:none" href="itemref://219061/219061/60/bd53517e:8978269f:50dc5dca:b7bb1489/bd53517e:8978269f:50dc5dca:b7bb1489"><font color=html_link_color>[Sateen Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://219071/219071/60/47a7562:4b57d473:9a5660b9:7f46766/47a7562:4b57d473:9a5660b9:7f46766"><font color=html_link_color>[Sateen Circlet]</font></a>
+<a style="text-decoration:none" href="itemref://219066/219066/60/f98a9f00:e7e3c274:4a39d9db:868ab07e/f98a9f00:e7e3c274:4a39d9db:868ab07e"><font color=html_link_color>[Sateen Gloves]</font></a>
+<a style="text-decoration:none" href="itemref://219047/219047/60/caa04ef9:78197d92:5e2f1dd5:b47f4a3d/caa04ef9:78197d92:5e2f1dd5:b47f4a3d"><font color=html_link_color>[Sateen Pants]</font></a>
+<a style="text-decoration:none" href="itemref://219067/219067/60/4fdf0e9a:6b4a676e:d78b23a1:2c294bbf/4fdf0e9a:6b4a676e:d78b23a1:2c294bbf"><font color=html_link_color>[Sateen Robe]</font></a>
+<a style="text-decoration:none" href="itemref://219055/219055/60/958a2af5:39af7d30:18723bec:3c82a3f4/958a2af5:39af7d30:18723bec:3c82a3f4"><font color=html_link_color>[Sateen Sash]</font></a>"
+<a style="text-decoration:none" href="itemref://219062/219062/60/d6828243:8700833d:ccddb8d1:e1dbe8b2/d6828243:8700833d:ccddb8d1:e1dbe8b2"><font color=html_link_color>[Sateen Slippers]</font></a>
+<a style="text-decoration:none" href="itemref://219053/219053/60/ec9a2b96:65c61534:8179232f:a3bf30bb/ec9a2b96:65c61534:8179232f:a3bf30bb"><font color=html_link_color>[Sateen Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://3777081/3777081/72/cdc2b17d:50061290:96d14af3:350120bb/cdc2b17d:50061290:96d14af3:350120bb"><font color=html_link_color>[Scribe's Staff]</font></a>
+<a style="text-decoration:none" href="itemref://3751896/3751896/60/e5540920:a1ed22a9:6d584106:1724aaf7/e5540920:a1ed22a9:6d584106:1724aaf7"><font color=html_link_color>[Scything Cabochon Garnet]</font></a>
+<a style="text-decoration:none" href="itemref://3752588/3752588/60/5baf3dcc:543e3a1:625a6af0:97a3128a/5baf3dcc:543e3a1:625a6af0:97a3128a"><font color=html_link_color>[Scything Oblique Garnet]</font></a>
+<a style="text-decoration:none" href="itemref://3805608/3805608/35/8c8e5d4b:b0c359d0:53cdc88b:bcac1f4/8c8e5d4b:b0c359d0:53cdc88b:bcac1f4"><font color=html_link_color>[Serpentstrike Belt]</font></a>
+<a style="text-decoration:none" href="itemref://279545/279545/40/b21840ab:bdf45d5c:ccfafc43:612dc4fd/b21840ab:bdf45d5c:ccfafc43:612dc4fd"><font color=html_link_color>[Sharphowler Steak]</font></a>
+<a style="text-decoration:none" href="itemref://3751799/3751799/50/a72d2de1:174a20de:dcecf43d:87112955/a72d2de1:174a20de:dcecf43d:87112955"><font color=html_link_color>[Shocking Cabochon Zircon]</font></a>
+<a style="text-decoration:none" href="itemref://161191/161191/50/218d6e6d:d829a500:bfe7392b:5618b47e/218d6e6d:d829a500:bfe7392b:5618b47e"><font color=html_link_color>[Silk]</font></a>
+<a style="text-decoration:none" href="itemref://3704877/3704877/70/99bc458c:90492b2:75ea5a0d:1a812633/99bc458c:90492b2:75ea5a0d:1a812633"><font color=html_link_color>[Silk Belt]</font></a>
+<a style="text-decoration:none" href="itemref://3803311/3803311/32/b0c99e0c:c7f95038:1af1f2e6:557a66aa/b0c99e0c:c7f95038:1af1f2e6:557a66aa"><font color=html_link_color>[Skrymir]</font></a>
+<a style="text-decoration:none" href="itemref://3803316/3803316/31/948a163f:51936d01:e18dec94:e09eb457/948a163f:51936d01:e18dec94:e09eb457"><font color=html_link_color>[Skullcracker]</font></a>
+<a style="text-decoration:none" href="itemref://3750905/3750905/79/652dbbfb:fb3886ed:a4b8f85f:ef054ea4/652dbbfb:fb3886ed:a4b8f85f:ef054ea4"><font color=html_link_color>[Skyfury Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3800481/3800481/72/f375cd67:d5ab5df0:bae44d3e:5977de8c/f375cd67:d5ab5df0:bae44d3e:5977de8c"><font color=html_link_color>[Snowcloud Cloak]</font></a>
+<a style="text-decoration:none" href="itemref://3706705/3706705/72/802c4f40:d2a2aa9c:b0adb4f4:44333871/802c4f40:d2a2aa9c:b0adb4f4:44333871"><font color=html_link_color>[Somatic Iron Plate Chestguard]</font></a>
+<a style="text-decoration:none" href="itemref://3805936/3805936/54/9c370e54:d490895f:8dd91232:70904624/9c370e54:d490895f:8dd91232:70904624"><font color=html_link_color>[Soulsiphon]</font></a>
+<a style="text-decoration:none" href="itemref://3202549/3202549/40/f0858f07:3131f3a3:c0117dc6:661f50ff/f0858f07:3131f3a3:c0117dc6:661f50ff"><font color=html_link_color>[Spellbane Mantle]</font></a>
+<a style="text-decoration:none" href="itemref://158836/158836/52/9cbb0030:ea31a11e:c1287ddd:d26f0bcf/9cbb0030:ea31a11e:c1287ddd:d26f0bcf"><font color=html_link_color>[Spike Shield]</font></a>
+<a style="text-decoration:none" href="itemref://3803377/3803377/29/4f1571dd:7db7ddc6:eef34a2:8cf4d7d7/4f1571dd:7db7ddc6:eef34a2:8cf4d7d7"><font color=html_link_color>[Spinebreaker]</font></a>
+<a style="text-decoration:none" href="itemref://1093891/1093891/75/c4ee1ff7:a81d9637:8b40e478:ca397fea/c4ee1ff7:a81d9637:8b40e478:ca397fea"><font color=html_link_color>[Spirit of Amber]</font></a>
+<a style="text-decoration:none" href="itemref://3707348/3707348/66/32340f19:3ca50b3:6ccca48d:b8852fd6/32340f19:3ca50b3:6ccca48d:b8852fd6"><font color=html_link_color>[Steady Iron-studded Gauntlets]</font></a>
+<a style="text-decoration:none" href="itemref://3752183/3752183/60/db65a51d:adfe5ec7:8343a9df:92798e2/db65a51d:adfe5ec7:8343a9df:92798e2"><font color=html_link_color>[Stormforged Trillion Moonstone]</font></a>
+<a style="text-decoration:none" href="itemref://3750844/3750844/73/5dd14df8:e7dcf981:4818c400:628bf240/5dd14df8:e7dcf981:4818c400:628bf240"><font color=html_link_color>[Stormrager Bracers]</font></a>
+<a style="text-decoration:none" href="itemref://219003/219003/60/d9e6ca2a:fe7dcdb5:5c902f74:1f04ba64/d9e6ca2a:fe7dcdb5:5c902f74:1f04ba64"><font color=html_link_color>[Sunsteel-mail Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3806046/3806046/69/740e428c:27f19f43:851587c1:eebde87e/740e428c:27f19f43:851587c1:eebde87e"><font color=html_link_color>[Svelte Treads]</font></a>
+<a style="text-decoration:none" href="itemref://157175/157175/50/d7f342f6:94f465bc:36dd6624:dc3307bc/d7f342f6:94f465bc:36dd6624:dc3307bc"><font color=html_link_color>[Swiftsilver Broadsword]</font></a>
+<a style="text-decoration:none" href="itemref://3750023/3750023/67/40d2eaa8:b577fe9e:5a373e3f:b8ba68b2/40d2eaa8:b577fe9e:5a373e3f:b8ba68b2"><font color=html_link_color>[Swiftstriker Armbands]</font></a>
+<a style="text-decoration:none" href="itemref://3777180/3777180/78/616ff7d8:58721a19:a4d219f4:7a0ffac4/616ff7d8:58721a19:a4d219f4:7a0ffac4"><font color=html_link_color>[Teneshk]</font></a>
+<a style="text-decoration:none" href="itemref://3806474/3806474/52/60695b09:8205aaa5:d4062c62:21ca28be/60695b09:8205aaa5:d4062c62:21ca28be"><font color=html_link_color>[The Edge of the North]</font></a>
+<a style="text-decoration:none" href="itemref://3806426/3806426/54/73186b85:564a0703:1f296e97:e42f6985/73186b85:564a0703:1f296e97:e42f6985"><font color=html_link_color>[The Reach of Storms]</font></a>
+<a style="text-decoration:none" href="itemref://3806428/3806428/66/2b9d6931:45850a67:e717b237:c149f888/2b9d6931:45850a67:e717b237:c149f888"><font color=html_link_color>[The Ruinmaker]</font></a>
+<a style="text-decoration:none" href="itemref://3806479/3806479/53/146f2bba:b08b8750:5e6f1cb7:4284112e/146f2bba:b08b8750:5e6f1cb7:4284112e"><font color=html_link_color>[The Vilegrist]</font></a>
+<a style="text-decoration:none" href="itemref://3752604/3752604/70/e5e1fefd:cb245dea:2af80dd:41f50828/e5e1fefd:cb245dea:2af80dd:41f50828"><font color=html_link_color>[Thrashing Cabochon Blood Opal]</font></a>
+<a style="text-decoration:none" href="itemref://3804800/3804800/24/cb523d9d:7ff06ec:d0667830:5490bca8/cb523d9d:7ff06ec:d0667830:5490bca8"><font color=html_link_color>[Thundercoil]</font></a>
+<a style="text-decoration:none" href="itemref://3750888/3750888/65/f75441b9:a0301527:82e41922:3414f675/f75441b9:a0301527:82e41922:3414f675"><font color=html_link_color>[Thunderous Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3800616/3800616/38/11f56885:7f7d481c:99436e11:6cb2590d/11f56885:7f7d481c:99436e11:6cb2590d"><font color=html_link_color>[Torturer's Mace]</font></a>
+<a style="text-decoration:none" href="itemref://3498610/3498610/73/9ca94b90:f4267c0a:be4b584:a1b25ad4/9ca94b90:f4267c0a:be4b584:a1b25ad4"><font color=html_link_color>[Trenchstorm Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://703260/703260/79/f76b6ce1:cc83369d:a63fff82:52774b57/f76b6ce1:cc83369d:a63fff82:52774b57"><font color=html_link_color>[Trespasser]</font></a>
+<a style="text-decoration:none" href="itemref://3777263/3777263/76/6cc08491:643ec2e5:d50c7686:d1cdc475/6cc08491:643ec2e5:d50c7686:d1cdc475"><font color=html_link_color>[Tyrant Pincer]</font></a>
+<a style="text-decoration:none" href="itemref://3701180/3701180/56/7085f46e:1dc0cc34:9a52e715:a3aa9a73/7085f46e:1dc0cc34:9a52e715:a3aa9a73"><font color=html_link_color>[Unhallowed Steel-ring Gauntlets]</font></a>
+<a style="text-decoration:none" href="itemref://3724244/3724244/64/ae567949:be651424:2c32a01a:10f2941b/ae567949:be651424:2c32a01a:10f2941b"><font color=html_link_color>[Unyielding Aspis]</font></a>
+<a style="text-decoration:none" href="itemref://3749562/3749562/73/3f236130:8db409cb:8377d0d:fd04d5b9/3f236130:8db409cb:8377d0d:fd04d5b9"><font color=html_link_color>[Vanquisher's Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://3749172/3749172/71/1460cd44:36d67e54:fbd1078e:d1713ccf/1460cd44:36d67e54:fbd1078e:d1713ccf"><font color=html_link_color>[Vanquisher's Vambraces]</font></a>
+<a style="text-decoration:none" href="itemref://702439/702439/76/279abb19:3e52fbbf:f0f3bcc:6b5b76ad/279abb19:3e52fbbf:f0f3bcc:6b5b76ad"><font color=html_link_color>[Vicious Drape]</font></a>
+<a style="text-decoration:none" href="itemref://3385105/3385105/61/94ae7815:bf552418:3cd923e2:e7c456d7/94ae7815:bf552418:3cd923e2:e7c456d7"><font color=html_link_color>[Vilescar Crowbill]</font></a>
+<a style="text-decoration:none" href="itemref://3749526/3749526/62/a6b24275:717d8278:a3dcd865:6a73e710/a6b24275:717d8278:a3dcd865:6a73e710"><font color=html_link_color>[Vindicator Legguards]</font></a>
+<a style="text-decoration:none" href="itemref://3749155/3749155/61/ff04b5e7:a10f8a8d:ce8fbd17:2a77d351/ff04b5e7:a10f8a8d:ce8fbd17:2a77d351"><font color=html_link_color>[Vindicator Vambraces]</font></a>
+<a style="text-decoration:none" href="itemref://3703374/3703374/62/228a7b83:68288076:5c2bb2ca:c094ba75/228a7b83:68288076:5c2bb2ca:c094ba75"><font color=html_link_color>[Vitalic Waxed Jerkin]</font></a>
+<a style="text-decoration:none" href="itemref://3667391/3667391/54/9aada1f4:d6f3e748:f06d937d:c82cb2d3/9aada1f4:d6f3e748:f06d937d:c82cb2d3"><font color=html_link_color>[Warherald Girdle]</font></a>
+<a style="text-decoration:none" href="itemref://219037/219037/60/83084f40:9df970bc:5b6e2202:684d4818/83084f40:9df970bc:5b6e2202:684d4818"><font color=html_link_color>[Waxed Brassarts]</font></a>
+<a style="text-decoration:none" href="itemref://219046/219046/60/90cef4a3:a4a4ed10:a4ae8c54:955665f0/90cef4a3:a4a4ed10:a4ae8c54:955665f0"><font color=html_link_color>[Waxed Cap]</font></a>
+<a style="text-decoration:none" href="itemref://3775215/3775215/60/b75b2c32:97084d8e:93d39535:f0051c9d/b75b2c32:97084d8e:93d39535:f0051c9d"><font color=html_link_color>[Waxed Fauld]</font></a>
+<a style="text-decoration:none" href="itemref://219041/219041/60/cfa20c43:787827ca:eca01fa1:39d0cd16/cfa20c43:787827ca:eca01fa1:39d0cd16"><font color=html_link_color>[Waxed Gloves]</font></a>
+<a style="text-decoration:none" href="itemref://219042/219042/60/f3291697:5d18b454:54330a75:c14d5d34/f3291697:5d18b454:54330a75:c14d5d34"><font color=html_link_color>[Waxed Jerkin]</font></a><a style="text-decoration:none" href="itemref://219034/219034/60/81fb3038:8f6c6b3c:cc89fee7:25b7375/81fb3038:8f6c6b3c:cc89fee7:25b7375"><font color=html_link_color>[Waxed Belt]</font></a>
+<a style="text-decoration:none" href="itemref://219038/219038/60/bac2da9d:c8e71020:fa59e25:f0d3f9d/bac2da9d:c8e71020:fa59e25:f0d3f9d"><font color=html_link_color>[Waxed Shoes]</font></a>
+<a style="text-decoration:none" href="itemref://219033/219033/60/d4e4ffd0:8fa8be67:b67b7477:727dccc7/d4e4ffd0:8fa8be67:b67b7477:727dccc7"><font color=html_link_color>[Waxed Wrist-straps]</font></a>
+<a style="text-decoration:none" href="itemref://3805627/3805627/31/a9752b9f:57d6ad27:8c1d30a7:83e6728d/a9752b9f:57d6ad27:8c1d30a7:83e6728d"><font color=html_link_color>[Weaselweave Leggings]</font></a>
+<a style="text-decoration:none" href="itemref://3746055/3746055/41/591c7cd4:1fb2667d:b87769f0:9af4418/591c7cd4:1fb2667d:b87769f0:9af4418"><font color=html_link_color>[Whispering Belt]</font></a>
+<a style="text-decoration:none" href="itemref://3748533/3748533/49/2f4d855c:13c2aad:d42cfc89:ff26d0b/2f4d855c:13c2aad:d42cfc89:ff26d0b"><font color=html_link_color>[Whispering Padsoles]</font></a>
+<a style="text-decoration:none" href="itemref://18107/18107/50/9895e0b4:82511346:71afeb62:a36b3e0c/9895e0b4:82511346:71afeb62:a36b3e0c"><font color=html_link_color>[White Hand Dagger]</font></a>
+<a style="text-decoration:none" href="itemref://3749721/3749721/69/c28afbc6:ea6e5db9:804f08ee:c884e120/c28afbc6:ea6e5db9:804f08ee:c884e120"><font color=html_link_color>[Wicked Boots]</font></a>
+<a style="text-decoration:none" href="itemref://702441/702441/76/7aae14fd:e9422230:4b1a91bc:f5c44978/7aae14fd:e9422230:4b1a91bc:f5c44978"><font color=html_link_color>[Wicked Heart]</font></a>
+<a style="text-decoration:none" href="itemref://1093722/1093722/60/c4d1f08:d57f3482:3312f4c:568cdd75/c4d1f08:d57f3482:3312f4c:568cdd75"><font color=html_link_color>[Wild Dagga]</font></a>
+<a style="text-decoration:none" href="itemref://3750694/3750694/77/960a4d5b:28bbb883:719f3af1:c5a2a1f/960a4d5b:28bbb883:719f3af1:c5a2a1f"><font color=html_link_color>[Wildfire Wristbands]</font></a>
+<a style="text-decoration:none" href="itemref://1093751/1093751/40/584c5b68:65a8ec4e:98288a3d:ca8066d2/584c5b68:65a8ec4e:98288a3d:ca8066d2"><font color=html_link_color>[Yohimbe Bark]</font></a>
+<a style="text-decoration:none" href="itemref://158500/158500/68/d8b1241b:dff051bd:91386f81:de6b3bce/d8b1241b:dff051bd:91386f81:de6b3bce"><font color=html_link_color>[Zamoran Slicer]</font></a>

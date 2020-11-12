@@ -1,0 +1,28 @@
+<c='#ff0011'>Gathering Materials Tier Guide</c>
+
+<c='#0099CC'>Tier 1 Gathering Resources</c>
+
+• <c='#009966'>Mining</c>: <c='#FFCC99'>Copper</c> (<c='#009999'>Tin</c>)  from: Copper Node
+• <c='#009966'>Prospecting</c>: <c='#FFCC99'>Silver</c> (<c='#009999'>Black Silver</c>) from: Silver Node
+• <c='#009966'>Skinning</c>: <c='#FFCC99'>Rough Leather</c> (<c='#009999'>Brindled Leather</c>) from: Animals (level 20+)
+• <c='#009966'>Stonecutting</c>: <c='#FFCC99'>Sandstone</c> (<c='#009999'>Clear Quartz</c>) from: Sandstone Node
+• <c='#009966'>Weaving</c>: <c='#FFCC99'>Cotton</c> (<c='#009999'>Cottonwisp</c>) from: Cotton Shrubberies
+• <c='#009966'>Woodcutting</c>: <c='#FFCC99'>Ash</c> (<c='#009999'>Ebon Ash</c>)  from: Ash Tree
+
+<c='#0099CC'>Tier 2 Gathering Resources</c>
+
+• <c='#009966'>Mining</c>: <c='#FFCC99'>Iron</c> (<c='#009999'>Aurichalcum</c>) from: Iron Node
+• <c='#009966'>Prospecting</c>: <c='#FFCC99'>Electrum</c> (<c='#009999'>Illustrium</c>) from: Electrum Node
+• <c='#009966'>Skinning</c>: <c='#FFCC99'>Calloused Leather</c> (<c='#009999'>Grained Leather</c>) from: Animals (level 40+)
+• <c='#009966'>Stonecutting</c>: <c='#FFCC99'>Granite</c> (<c='#009999'>Feldspar</c>)  from: Granite Node
+• <c='#009966'>Weaving</c>: <c='#FFCC99'>Silk</c> (<c='#009999'>Tussah Silk</c>) from: Human mob's (level 40+)
+• <c='#009966'>Woodcutting</c>: <c='#FFCC99'>Yew</c> (<c='#009999'>Amberwood</c>) from: Yew Tree
+
+<c='#0099CC'>Tier 3 Gathering Resources</c>
+
+• <c='#009966'>Mining</c>: <c='#FFCC99'>Duskmetal</c> (<c='#009999'>Blue Iron</c>)  from: Duskmetal Node
+• <c='#009966'>Prospecting</c>: <c='#FFCC99'>Gold</c> (<c='#009999'>Platinum</c>) from: Gold Node
+• <c='#009966'>Skinning</c>: <c='#FFCC99'>Gnarled Leather</c> (<c='#009999'>Whorled Leather</c>) from: Animals (level 60+)
+• <c='#009966'>Stonecutting</c>: <c='#FFCC99'>Basalt</c> (<c='#009999'>Obsidian</c>) from: Basalt Node
+• <c='#009966'>Weaving</c>: <c='#FFCC99'>Ironsilk</c> (<c='#009999'>Gossamir Silk</c>) from: Humans (level 60+)
+• <c='#009966'>Woodcutting</c>: <c='#FFCC99'>Oak</c>  (<c='#009999'>Soulwood</c>) from: Oak Tree

@@ -1,0 +1,28 @@
+Accessing the Gathering Areas
+<b>Accessing the Gathering Areas</b>
+To be able to gather recources, you first need to learn to gather them. The trainers that train you the 6 different kinds of gathering are located in 3 areas. These 3 areas are.
+<u>Lacheish Plains</u>, <u>Poitain</u> and <u>Purple Lotus Swamp</u>.
+
+These 3 areas are located outside Tortage, so you have to finish Tortage before you are able to train the gathering skills. I believe that the training is only available when you are <u>level 20 or higher</u>.
+
+
+I’ll give a short walkthrough how to get from each Hub to the nearest Gathering area. Depending on the race you choose, you will start at a different Hub when you finish Tortage. The walkthrough includes some coordinates, you can find these coordinates when you open your map (located near the minimap or press M). The coordinates show below the map, the coordinates shown are the coordinates of the location of your mouse pointer on the map.
+
+<b><u>Conarch Village - Getting to Lacheish Plains</u></b>
+Your starting location is Conarch Village. The nearest gathering area is Lacheish Plains, to get there we first need to travel to Conall's Valley. Conarch Village is quite big, when you open your map, the entrance to Conall's Valley is located at" <b>448:428</b>. Arrived at the location you see a wooden wall with wooden door, pressing the wooden door will give you access to Conan’s Valley.
+
+Arrived in Conall's Valley, our next step is to travel to the Fields of the Dead. The entrance to this area is to the far east of the map. Keep following the road east, eventually you will need to go down a bit south as well, the exact entrance is located at coordinate: <b>1755:660</b>. Pressing on the door will give you access to the Field of the Dead.
+
+Arrived in the Fields of the Dead, our next step is to travel to Lacheish Plains. The entrance to this area is very close. Exact location: <b>115:225</b>. It’s about 100-200 meter south, you should see it on your minimap. Walk to the NPC, and talk. Talking to this NPC gives you 3 options, the first 2 options are of importance. Option 1: Bring me to my guild city. If your guild has built a city, this will transport you immediately to the location your city is build, <u>even if it is not in Lacheish Plains but for example in Purple Lotus Swamp</u>. Option 2: Travel to Lacheish Plains. This is the option you want to choose if you would like to travel to Lacheish Plains.
+
+
+<b><u>Old Tarantia - Getting to Poitain</u></b>
+Your starting location is Old Tarantia. The nearest gathering area is Poitain, to get there we first need to travel to the Wild Lands of Zelata. Old Tarantia is quite big, when you open your map, you can see a road going out of the city to the southeast. Follow this road, all the way down until you reach a small house with a few NPC’s in front of it. The exact location is: <b>1095:396</b>. One of the NPC’s has a tag below his name called: Wild Lands of Zelata. Talk to this NPC, follow the dialogue, and you will be transported to the Wild Lands of Zelata.
+
+When you arrive in the Wild Lands of Zelata, Poitain is close. Open your map, follow the road that leads straight north. Our destination is the northwest corner of the map. When you arrive in the northwest corner, there should be 2 NPC’s near a ravine. The exact location is: (to be updated). One of the NPC’s has a tag below his name: Poitain City Guide. Talking to this NPC gives you 3 options, the first 2 options are of importance. Option 1: Bring me to my guild city. If your guild has built a city, this will transport you immediately to the location your city is build, <u>even if it is not in Poitain but for example in Purple Lotus Swamp</u>. Option 2: Travel to Poitain. This is the option you want to choose if you would like to travel to Poitain.
+
+<b><u>Khemi - Getting to Purple Lotus Swamp</u></b>
+Your starting point is Khemi. The nearest gathering area is Purple lotus, to get there we first need to travel to the Khopshef’s Province. Khemi is quite big, when you open your map, it is located on the other side of the Island. The location is: <b>788:1155</b>. There should be a boat, and an NPC standing near. One of the NPC’s has a tag below his name called: Khopshef’s Province. Talk to this NPC, follow his dialogue, and you will be transported to Khopshef’s Province.
+
+
+When you arrive in Khopshef’s Province, Purple Lotus Swamp is close. Open your map, follow the road that leads south. Our destination is <b>523:134</b>. When you arrive at the location. There should be 2 NPC’s. One of the NPC’s has a tag below his name: Purple Lotus Swamp Guide. Talking to this NPC gives you 3 options, the first 2 options are of importance. Option 1: Bring me to my guild city. If your guild has built a city, this will transport you immediately to the location your city is build, <u>even if it is not in Purple Lotus Swamp but for example in Potain</u>. Option 2: Travel to Purple Lotus Swamp. This is the option you want to choose if you would like to travel to Purple Lotus Swamp.
